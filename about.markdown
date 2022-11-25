@@ -3,16 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+<div align="justify">
+Tenho interesse em áreas relacionadas ao desenvolvimento de software
+embarcado, principalmente em implementações de protocolos de comunicação
+e no desenvolvimento de aplicações em redes.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Durante minha carreira participei de projetos de pesquisa e desenvolvimento
+de dispositivos embarcados atuando em especial nas etapas de prototipagem de
+hardware e software.
+</div>
